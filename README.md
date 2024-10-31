@@ -24,3 +24,5 @@ The product page is created dynamically, pulling data from the database based on
 To log in, the user needs to enter their email and password. If the user does not have an account, there is an option to register below the login button. When a user logs in, a PHP session begins, and a new logout button is added to the navigation menu to end the user's session. A logged-in user can view their details by clicking on the profile icon.
 
 Additionally, if a logged-in user adds an item to the cart, a cart session begins, which can be ended if the user deletes all items, logs out, or completes the purchase.
+
+Variables in the code are mostly in the Serbian language, the same as the displayed language.
