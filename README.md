@@ -1,4 +1,4 @@
-#Clothing Shop - Clone<br>
+# Clothing Shop - Clone<br>
 A website created as a clone of an existing brand for fashion accessories and clothing.<br><br>
 This website was developed for a client who needed a clone of the existing fashion brand Mona, which is represented in the Balkan. The technologies used are:
 
